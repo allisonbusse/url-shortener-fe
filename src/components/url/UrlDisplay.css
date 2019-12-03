@@ -1,0 +1,22 @@
+.UrlDisplay {
+  margin: 40px 0;
+
+  h2 {
+    text-align: center;
+    color: #3c70a4;
+  }
+  
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  li {
+    padding: 6px 20px;
+    background-color: #64b2cd;
+    border-radius: 8px;
+    width: 22vw;
+    margin-bottom: .6em;
+  }
+}

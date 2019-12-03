@@ -1,0 +1,22 @@
+.UrlForm {
+  
+  margin: 4em 0;
+
+  form {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  input {
+    width: 40vw;
+    font-size: 1.8em;
+  }
+  p {
+    font-size: 1.4em;
+  }
+
+  button {
+    margin-left: .8em;
+    height: 40px;
+  }
+}

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 80vw;
+  margin: 0 auto;
+  background-color: #d9eeec;
+
+  h1 {
+    text-align: center;
+    color: #3c70a4;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 4em;
+    margin-bottom: 0;
+  }
+
+  h3 {
+    text-transform: uppercase;
+    text-align: center;
+    color: #64b2cd;
+    margin-top: 0;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  button {
+    padding: 12px;
+    text-transform: uppercase;
+    background-color: #da9833;
+    font-size: 1em;
+    color: white;
+  }
+
+  button:hover {
+    transform: translate(-2px);
+    box-shadow: 2px 2px 3px 2px rgba(114, 114, 114, 0.8);
+  }
+
+  a, a:visited {
+    color: darkblue;
+  }
+
+  a:hover {
+    color: mediumslateblue;
+  }
+}

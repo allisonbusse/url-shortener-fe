@@ -1,0 +1,29 @@
+.Header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  div {
+    flex-grow: 1;
+  }
+
+  h1 {
+    text-align: center;
+    color: #3c70a4;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 4em;
+    margin-bottom: 0;
+  }
+
+  h3 {
+    text-transform: uppercase;
+    text-align: center;
+    color: #64b2cd;
+    margin-top: 0;
+  }
+
+  button {
+    height: 40px;
+    font-size: 0.8em;
+  }
+}
